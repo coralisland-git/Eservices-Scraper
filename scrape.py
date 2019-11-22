@@ -4,8 +4,6 @@ import pdb
 import requests
 from lxml import etree
 import json
-import usaddress
-
 
 base_url = 'https://eservices.cipc.co.za/Search.aspx'
 
